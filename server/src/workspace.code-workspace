@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "SDStore",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"unistd.h": "c",
+			"random": "c"
+		}
+	}
+}

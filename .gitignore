@@ -1,0 +1,14 @@
+#Object files
+*.o
+
+#Executables
+bin/*
+
+#Documentation
+docs/*
+
+#VS Code
+.vscode
+
+#Callgrind
+callgrind.out.*
